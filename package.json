@@ -2,6 +2,9 @@
   "name": "react-timer-countdown",
   "version": "1.0.0",
   "description": "React Timer and CountDown Web App",
+  "engines":{
+    "node" : "6.11.1"
+  }
   "main": "index.js",
   "scripts": {
     "test": "karma start",
