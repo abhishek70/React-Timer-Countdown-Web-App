@@ -4,7 +4,7 @@
   "description": "React Timer and CountDown Web App",
   "engines":{
     "node" : "6.11.1"
-  }
+  },
   "main": "index.js",
   "scripts": {
     "test": "karma start",
